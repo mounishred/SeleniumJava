@@ -14,7 +14,7 @@ public class ChromeBrowser {
 		Thread.sleep(3000);
 		driver.manage().window().maximize();
 		Thread.sleep(3000);
-		driver.get("https://www.techlearn.in/");
+		driver.get("https://www.techlearn.in/admin");
 		Thread.sleep(3000);
 		driver.get("https://www.google.com/");
 		Thread.sleep(3000);
