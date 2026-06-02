@@ -7,7 +7,7 @@ public class JavaComments {
 System.out.println("Purushotham");
 //System.out.println("#$%#@%#$^%^&^%*SDGFFHGJ34546457");
 System.out.println("GitHub");
-/* System.out.println('8');
+/* System.out.println('88');
 System.out.println('K');
 System.out.println('9');
 System.out.println(8); */
