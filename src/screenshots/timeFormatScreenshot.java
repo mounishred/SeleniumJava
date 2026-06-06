@@ -32,7 +32,7 @@ public class timeFormatScreenshot {
   public void f()  throws Exception{
 	  
 	  driver.get("https://www.flipkart.com");
-	  Thread.sleep(5000);
+	  Thread.sleep(8000);
 	  Screenshot();
 	  
 	  
