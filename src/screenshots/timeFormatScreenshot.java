@@ -33,6 +33,7 @@ public class timeFormatScreenshot {
 	  
 	  driver.get("https://www.flipkart.com");
 	  Thread.sleep(5000);
+	  Thread.sleep(2000);
 	  Screenshot();
 	  
 	  
