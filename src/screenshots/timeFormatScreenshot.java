@@ -39,7 +39,7 @@ public class timeFormatScreenshot {
   }
   @BeforeTest
   public void beforeTest() {
-	  driver = new ChromeDriver();
+	  driver = new SafariDriver();
 	  driver.manage().window().maximize();
   }
 
